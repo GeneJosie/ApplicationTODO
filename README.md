@@ -1,2 +1,2 @@
 Bonjour
-git checkout -b NOM_BRANCHE GJAAA
+git checkout -b NOM_BRANCHE
