@@ -1,1 +1,1 @@
-Pour les bonnes pratiques on a integrer la notion de revue de code. Pourcela
+Pour les bonnes pratiques on a integré la notion de revue de code. Pourcela
